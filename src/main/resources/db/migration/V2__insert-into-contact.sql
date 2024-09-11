@@ -1,0 +1,16 @@
+INSERT INTO contact (name, phone_number, email) VALUES
+('William Jackson', '41967890123', 'williamjackson51@example.com'),
+('Ranon Campos', '61991919191', 'ranon@email.com'),
+('Alana Melo', '61991919192', 'email@email.com'),
+('Zoe Young', '71966456787', 'zoeyoung111@example.com'),
+('Lucas Silva', '31985739284', 'lucas.silva@example.com'),
+('Mariana Costa', '21987654321', 'marianac@example.com'),
+('Ana Oliveira', '31987654322', 'ana.oliveira@example.com'),
+('Felipe Souza', '21912345678', 'felipe.souza@example.com'),
+('Clara Santos', '41991234567', 'clara.santos@example.com'),
+('Pedro Almeida', '51998765432', 'pedro.almeida@example.com'),
+('Julia Rocha', '11987654321', 'julia.rocha@example.com'),
+('Thiago Lima', '61987654322', 'thiago.lima@example.com'),
+('Beatriz Martins', '71987654323', 'beatriz.martins@example.com'),
+('Gabriel Pereira', '21912345679', 'gabriel.pereira@example.com'),
+('Fernanda Ramos', '31998765432', 'fernanda.ramos@example.com');
